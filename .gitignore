@@ -133,4 +133,5 @@ dmypy.json
 
 # Datasets
 datasets/*
+!datasets/
 !datasets/label.pbtxt
