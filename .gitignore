@@ -130,3 +130,7 @@ dmypy.json
 
 # IDE settings
 .idea/
+
+# Datasets
+datasets/*
+!datasets/label.pbtxt
